@@ -3,7 +3,6 @@
 
 Email Me 👉 ✉️ **mdrazibsarker25@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Docker, Socket.io, DSA in Deeply
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mdrazibsarker25@gmail.com
